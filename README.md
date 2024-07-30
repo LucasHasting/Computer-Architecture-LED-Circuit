@@ -34,5 +34,5 @@ The following LED outputs correspond the to following 4 inputs:
 
 ## Overview
 
-[LED Circuit Work.pdf](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/subnetting.py): contains the work for creating the circuit.   
-[LED.dig](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/functions_and_constants.py): the circuit file.
+[LED Circuit Work.pdf](https://github.com/LucasHasting/Computer-Architecture-LED-Circuit/blob/main/LED%20Circuit%20Work.pdf): contains the work for creating the circuit.   
+[LED.dig](https://github.com/LucasHasting/Computer-Architecture-LED-Circuit/blob/main/LED.dig): the circuit file.
