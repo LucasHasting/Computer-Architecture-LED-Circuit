@@ -10,7 +10,7 @@ This repository holds the work and circuit file for an LED circuit.
 - [Example](#example)
 - [Overview](#overview)
 
-## The-Circuit
+## The-Circuit    
 ![CIRCUIT](circuit.png)
 
 ## Installation
@@ -25,7 +25,7 @@ To view and test the circuit download the [digital logic simulator](https://gith
 
 ## Usage
 
-The following LED outputs correspond the to following 4 inputs:
+The following LED outputs correspond the to following 4 inputs:    
 ![TABLE](table.png)
 
 ## Example
