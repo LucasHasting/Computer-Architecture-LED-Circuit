@@ -4,10 +4,14 @@ This repository holds the work and circuit file for an LED circuit.
 
 ## Table of Contents
 
+- [The-Circuit](#the-circuit)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
-- [Program-Overview](#program-overview)
+- [Overview](#overview)
+
+## The-Circuit
+![CIRCUIT](circuit.png)
 
 ## Installation
 
@@ -17,10 +21,12 @@ To view and test the circuit download the [digital logic simulator](https://gith
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
 3. Open the simulator
 4. Click file -> open, and then open the file
+5. Click the play button to play with the circuit
 
 ## Usage
 
-The following inputs correspond the to following outputs
+The following LED outputs correspond the to following 4 inputs:
+![TABLE](table.png)
 
 ## Example
 
@@ -28,5 +34,5 @@ The following inputs correspond the to following outputs
 
 ## Overview
 
-[subnetting.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/subnetting.py): contains the main driver of the program and is what needs to be executed.   
-[functions_and_constants.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/functions_and_constants.py): contains the constants used in both programs and the functions used in subnetting.py
+[LED Circuit Work.pdf](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/subnetting.py): contains the work for creating the circuit.   
+[LED.dig](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/functions_and_constants.py): the circuit file.
