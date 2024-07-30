@@ -17,11 +17,10 @@ This repository holds the work and circuit file for an LED circuit.
 
 To view and test the circuit download the [digital logic simulator](https://github.com/hneemann/Digital). 
 
-1. Download the project as a zip file
-2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
-3. Open the simulator
-4. Click file -> open, and then open the file
-5. Click the play button to play with the circuit
+1. Download the [LED.dig]() file
+2. Open the simulator
+3. Click file -> open, and then open the LED.dig file
+4. Click the play button to play with the circuit
 
 ## Usage
 
